@@ -1,0 +1,53 @@
+
+🔍 Mini Challenge: Insurance Premium Evaluator
+You're writing a tool for an insurance company that determines a customer's premium category based on risk factors.
+
+📝 Inputs:
+Ask the user for:
+
+Age (integer)
+
+Has driving violations? (yes or no)
+
+Owns high-risk vehicle? (yes or no)
+
+Years of driving experience (integer)
+
+🎯 Output:
+Print one of the following:
+
+"Premium: High Risk" – if:
+
+Age < 25 OR
+
+Has violations OR
+
+Owns high-risk vehicle
+
+"Premium: Standard" – if:
+
+No violations
+
+No high-risk vehicle
+
+Driving experience >= 5 years
+
+"Premium: Review Required" – everything else
+
+💡 Bonus:
+At the end, print:
+
+Reason: <brief reason here>
+Give a reason why the person is considered high risk or needs review.
+'''
+
+📝 Inputs:
+Ask the user for:
+
+Age (integer)
+
+Has driving violations? (yes or no)
+
+Owns high-risk vehicle? (yes or no)
+
+Years of driving experience (integer)
