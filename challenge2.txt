@@ -1,0 +1,26 @@
+💰 Simple Budget Tracker
+🎯 Goal
+
+Write a program that checks if a list of expenses stays within a given budget.
+
+📝 Instructions
+
+Start with a budget (e.g., 1000).
+
+Create a list of expenses (numbers).
+
+Go through each expense one by one:
+
+Subtract it from the budget.
+
+Print the remaining budget after each expense.
+
+If the budget goes below zero, print:
+
+Which expense caused the problem.
+
+By how much the budget was exceeded.
+
+Stop the program.
+
+If all expenses fit within the budget, print a success message.
